@@ -1,8 +1,0 @@
-{
-  "name": "freebits/proseo.click",
-  "type": "project",
-
-  "require": {
-    "twig/twig": "^3.0"
-  }
-}
